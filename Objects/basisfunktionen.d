@@ -1,0 +1,12 @@
+.\objects\basisfunktionen.o: basisFunktionen.c
+.\objects\basisfunktionen.o: basisFunktionen.h
+.\objects\basisfunktionen.o: .\TI_BRD_LIB\TI-C_Board\stm32f4xx.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\basisfunktionen.o: C:\Keil_v5\ARM\INC\ST\STM32F4xx\system_stm32f4xx.h
+.\objects\basisfunktionen.o: TI_BRD_LIB\Library\TI_memory_map.h
+.\objects\basisfunktionen.o: .\TI_BRD_LIB\TI-C_Board\stm32f4xx.h
+.\objects\basisfunktionen.o: TI_BRD_LIB\Library\timer.h
